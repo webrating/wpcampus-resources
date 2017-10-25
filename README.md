@@ -8,9 +8,9 @@ The WPCampus community wanted to create an accessible and easy to maintain knowl
 
 We will monitor resource requests and questions in [the Issues section of the repo](https://github.com/wpcampus/wpcampus-resources/issues).
 
-First, check the issues to see if your request has already been submitted. If not, create an issue and we will do our best to gather some information. If you have some resources you'd like to share, consider contributing to the repo.
+First, check the issues to see if your request has already been submitted. If not, create an issue and we will do our best to gather information. If you have resources you'd like to share, consider contributing to the repo.
 
-## To contribute
+## How to contribute
 
 This repository uses [wpcampus-wp-github-sync](https://github.com/wpcampus/wpcampus-wp-github-sync) to sync the resources post content in the [wpcampus.org](https://wpcampus.org/) WordPress admin as files in the repo. You can add and edit [WPCampus Resources](https://wpcampus.org/resources/) by submitting changes to this repo.
 
