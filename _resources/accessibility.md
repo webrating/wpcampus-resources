@@ -62,25 +62,34 @@ post_date: 2017-10-24 22:07:45
 </ul>
 <h2>What Schools Are Using</h2>
 <ul>
- 	<li>University of Nebraska-Lincoln
+ 	<li>Birkbeck, University of London
  		<ul>
- 			<li><a href="https://webaudit.unl.edu/">UNL Web Audit</a>
+ 			<li><a href="http://bbk.ac.uk/birkbeck-for-all">Birkbeck for All: Joined-up thinking on accessibility</a>
  				<ul>
- 					<li>Helps you maintain your site by running automatic audits that help you find and fix problems that affect user experience.</li>
+ 					<li>Guidelines to support inclusivity of learning resources</li>
  				</ul>
  			</li>
  		</ul>
  	</li>
  	<li>Hampshire College
-<ul>
- 	<li>Built a web app using the WAVE API to scan multiple URLs: <a href="http://hampshirecollege.github.io/a11yeval">http://hampshirecollege.github.io/a11yeval</a></li>
-</ul>
-</li>
+		<ul>
+		 	<li>Built a web app using the WAVE API to scan multiple URLs: <a href="http://hampshirecollege.github.io/a11yeval">http://hampshirecollege.github.io/a11yeval</a></li>
+		</ul>
+	</li>
  	<li>Harvard University
  		<ul>
  			<li><a href="https://accessibility.huit.harvard.edu/">Harvard University Online Accessibility</a>
  				<ul>
  					<li>Checklists, guides, resources and policies</li>
+ 				</ul>
+ 			</li>
+ 		</ul>
+ 	</li>
+ 	<li>University of Nebraska-Lincoln
+ 		<ul>
+ 			<li><a href="https://webaudit.unl.edu/">UNL Web Audit</a>
+ 				<ul>
+ 					<li>Helps you maintain your site by running automatic audits that help you find and fix problems that affect user experience.</li>
  				</ul>
  			</li>
  		</ul>
@@ -91,34 +100,25 @@ post_date: 2017-10-24 22:07:45
  		</ul>
  	</li>
  	<li>Washington State University
-<ul>
- 	<li>Audit process:
-<ul>
- 	<li>Automatic scan with accessibility collector.</li>
- 	<li>Browser scan with Axe Chrome extension.</li>
- 	<li>Manual check of elements not caught by automatic scans.</li>
-</ul>
-</li>
- 	<li>Accessibility Policy - <a href="https://web.wsu.edu/accessibility/">https://web.wsu.edu/accessibility/</a></li>
- 	<li><a href="https://web.wsu.edu/accessibility-guides/">Accessibility Guides</a> for the web, forked from the <a href="https://github.com/18F/accessibility/">18F accessibility guides</a>.</li>
- 	<li><a href="https://github.com/washingtonstateuniversity/WSU-Accessibility-Collector">WSU Accessibility Collector</a> (in development)
-<ul>
- 	<li>Uses <a href="https://github.com/pa11y/pa11y">Pa11y</a> for accessibility checking, which in turn uses <a href="https://github.com/squizlabs/HTML_CodeSniffer">HTML_CodeSniffer</a></li>
-</ul>
-</li>
- 	<li><a href="https://github.com/washingtonstateuniversity/WSU-Accessibility-Dashboard">WSU Accessibility Dashboard</a> (in development) and the corresponding <a href="https://dashboard.wsu.edu/accessibility/">public facing dashboard</a>.</li>
- 	<li>They have a lot of open-sources tools <a href="https://github.com/Washingtonstateuniversity">in their Github repo</a>.</li>
-</ul>
-</li>
- 	<li>Birkbeck, University of London
  		<ul>
- 			<li><a href="http://bbk.ac.uk/birkbeck-for-all">Birkbeck for All: Joined-up thinking on accessibility</a>
+ 			<li>Audit process:
  				<ul>
- 					<li>Guidelines to support inclusivity of learning resources</li>
- 				</ul>
- 			</li>
- 		</ul>
- 	</li>
+				 	<li>Automatic scan with accessibility collector.</li>
+				 	<li>Browser scan with Axe Chrome extension.</li>
+				 	<li>Manual check of elements not caught by automatic scans.</li>
+				</ul>
+			</li>
+			<li>Accessibility Policy - <a href="https://web.wsu.edu/accessibility/">https://web.wsu.edu/accessibility/</a></li>
+			<li><a href="https://web.wsu.edu/accessibility-guides/">Accessibility Guides</a> for the web, forked from the <a href="https://github.com/18F/accessibility/">18F accessibility guides</a>.</li>
+			<li><a href="https://github.com/washingtonstateuniversity/WSU-Accessibility-Collector">WSU Accessibility Collector</a> (in development)
+				<ul>
+					<li>Uses <a href="https://github.com/pa11y/pa11y">Pa11y</a> for accessibility checking, which in turn uses <a href="https://github.com/squizlabs/HTML_CodeSniffer">HTML_CodeSniffer</a></li>
+				</ul>
+			</li>
+			<li><a href="https://github.com/washingtonstateuniversity/WSU-Accessibility-Dashboard">WSU Accessibility Dashboard</a> (in development) and the corresponding <a href="https://dashboard.wsu.edu/accessibility/">public facing dashboard</a>.</li>
+			<li>They have a lot of open-sources tools <a href="https://github.com/Washingtonstateuniversity">in their Github repo</a>.</li>
+		</ul>
+	</li>
 </ul>
 <h2>Tools</h2>
 <h3>Color Contrast</h3>
