@@ -10,6 +10,7 @@ published: true
 post_date: 2017-10-24 22:07:45
 ---
 <h2>Standards</h2>
+I'm testing the GitHub sync.
 <ul>
  	<li>WCAG 2.0
 <ul>
@@ -28,7 +29,6 @@ post_date: 2017-10-24 22:07:45
 </ul>
 </li>
 </ul>
-
 <h2>Resources</h2>
 <h3>Articles</h3>
 <ul>
@@ -90,7 +90,7 @@ post_date: 2017-10-24 22:07:45
  	<li>They have a lot of open-sources tools <a href="https://github.com/Washingtonstateuniversity">in their Github repo</a>.</li>
 </ul>
 </li>
- 	<li>Birkbeck, University of London - ‘<a href="http://bbk.ac.uk/birkbeck-for-all">Birkbeck for All: Joined-up thinking on accessibility</a>’  - guidelines to support inclusivity of learning resources. </li>
+ 	<li>Birkbeck, University of London - ‘<a href="http://bbk.ac.uk/birkbeck-for-all">Birkbeck for All: Joined-up thinking on accessibility</a>’  - guidelines to support inclusivity of learning resources.</li>
 </ul>
 <h2>Tools</h2>
 <h3>Color Contrast</h3>
@@ -248,7 +248,7 @@ post_date: 2017-10-24 22:07:45
 </li>
  	<li><a href="https://wordpress.org/plugins/automatic-alternative-text/">Automatic Alternative Text</a>
 <ul>
- 	<li>Adds alt text using microsoft cognitive services </li>
+ 	<li>Adds alt text using microsoft cognitive services</li>
 </ul>
 </li>
 </ul>
