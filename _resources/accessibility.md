@@ -79,7 +79,7 @@ post_date: 2017-10-24 22:07:45
  	</li>
  	<li>Hampshire College
 		<ul>
-		 	<li>Built a web app using the WAVE API to scan multiple URLs: <a href="http://hampshirecollege.github.io/a11yeval">http://hampshirecollege.github.io/a11yeval</a></li>
+			<li><a href="http://hampshirecollege.github.io/a11yeval">Built a web app using the WAVE API</a> to scan multiple URLs.</li>
 		</ul>
 	</li>
  	<li>Harvard University
@@ -96,8 +96,14 @@ post_date: 2017-10-24 22:07:45
  			<li><a href="https://webaudit.unl.edu/">UNL Web Audit</a>
  				<ul>
  					<li>Helps you maintain your site by running automatic audits that help you find and fix problems that affect user experience.</li>
+ 					<li>Uses Axe.</li>
  				</ul>
  			</li>
+ 		</ul>
+ 	</li>
+ 	<li>NC State
+ 		<ul>
+ 			<li><a href="https://github.com/briandeconinck/ncsu-a11y-helper">NC State Accessibility Helper</a> uses aXe to check for common accessibility issues.</li>
  		</ul>
  	</li>
  	<li>Stanford University
@@ -114,7 +120,7 @@ post_date: 2017-10-24 22:07:45
 				 	<li>Manual check of elements not caught by automatic scans.</li>
 				</ul>
 			</li>
-			<li>Accessibility Policy - <a href="https://web.wsu.edu/accessibility/">https://web.wsu.edu/accessibility/</a></li>
+			<li><a href="https://web.wsu.edu/accessibility/">Accessibility Policy</a></li>
 			<li><a href="https://web.wsu.edu/accessibility-guides/">Accessibility Guides</a> for the web, forked from the <a href="https://github.com/18F/accessibility/">18F accessibility guides</a>.</li>
 			<li><a href="https://github.com/washingtonstateuniversity/WSU-Accessibility-Collector">WSU Accessibility Collector</a> (in development)
 				<ul>
@@ -160,21 +166,11 @@ post_date: 2017-10-24 22:07:45
 		 	<li>Is a <a href="https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb">Google Chrome extension</a> that adds a tab to your developer tools to run a scan/audit of your current page.</li>
 		</ul>
 	</li>
- 	<li>Axe
+ 	<li><a href="https://www.deque.com/products/axe/">Axe</a>
  	    <ul>
 		 	<li><a href="https://github.com/dequelabs/axe-core">Axe-core</a> is a Javascript file you can use to scan your site.</li>
-		 	<li>Offers a <a href="https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd">Google Chrome extension</a> that adds a tab to your developer tools to run a scan/audit of your page.
-		 		<ul>
-		 			<li>More info: <a href="https://www.deque.com/products/axe/">https://www.deque.com/products/axe/</a></li>
-		 		</ul>
-		 	</li>
-		 	<li>They also offer premium services.</li>
-		 	<li>From network schools:
-		 		<ul>
-		 			<li>NCSU: <a href="https://github.com/briandeconinck/ncsu-a11y-helper">https://github.com/briandeconinck/ncsu-a11y-helper</a> uses aXe for most of its tests</li>
-		 			<li>UNL: <a href="https://webaudit.unl.edu/">https://webaudit.unl.edu/</a> uses aXe for its accessibility tests</li>
-		 		</ul>
-		 	</li>
+		 	<li>Offers a <a href="https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd">Google Chrome extension</a> that adds a tab to your developer tools to run a scan/audit of your page.</li>
+		 	<li>They offer premium services.</li>
 	    </ul>
 	</li>
  	<li>ARIA validator
@@ -182,51 +178,41 @@ post_date: 2017-10-24 22:07:45
 		 	<li><a href="https://chrome.google.com/webstore/detail/aria-validator/oigghlanfjgnkcndchmnlnmaojahnjoc">Google Chrome extension</a> that adds a button at the top of the browser that, when clicked, will scan and audit ARIA usage.</li>
 		</ul>
 	</li>
- 	<li>Functional Accessibility Evaluator
+ 	<li><a href="https://fae.disability.illinois.edu">Functional Accessibility Evaluator</a>
 		<ul>
-		 	<li>Main Tool: <a href="https://fae.disability.illinois.edu">https://fae.disability.illinois.edu</a></li>
 		 	<li>Developed by the Disability Research and Educational Services at the University of Illinois at Urbana-Champaign</li>
-		 	<li>More information: <a href="https://fae.disability.illinois.edu/abouts/">https://fae.disability.illinois.edu/abouts/</a></li>
+		 	<li><a href="https://fae.disability.illinois.edu/abouts/">Learn more about the tool</a></li>
 		</ul>
 	</li>
- 	<li>HTML CodeSniffer
+ 	<li><a href="https://squizlabs.github.io/HTML_CodeSniffer/">HTML CodeSniffer</a>
 		<ul>
 		 	<li>A Javascript application that can be used to run scans.</li>
 		 	<li>Also has a bookmarklet for quick scans on any web page.</li>
-		 	<li><a href="https://squizlabs.github.io/HTML_CodeSniffer/">https://squizlabs.github.io/HTML_CodeSniffer/</a></li>
 		</ul>
 	</li>
- 	<li>Pa11y
+ 	<li><a href="https://github.com/pa11y">Pa11y</a>
 		<ul>
 		 	<li>They have A LOT of open source tools.</li>
-		 	<li><a href="https://github.com/pa11y">https://github.com/pa11y</a></li>
 		</ul>
 	</li>
- 	<li>Siteimprove
+ 	<li><a href="https://siteimprove.com/">Siteimprove</a>
 		<ul>
 		 	<li><a href="https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc">Google Chrome extension</a> that adds a button at the top of the browser that, when clicked, will scan/audit your web page.</li>
-		 	<li>They also offer premium services: <a href="https://siteimprove.com/">https://siteimprove.com</a></li>
+		 	<li>They offer premium services.</li>
 		</ul>
 	</li>
- 	<li>Tota11y
+ 	<li><a href="http://khan.github.io/tota11y/">Tota11y</a>
 		<ul>
-		 	<li>More info: <a href="http://khan.github.io/tota11y/">http://khan.github.io/tota11y/</a></li>
 		 	<li>Has Javascript file you can place on site</li>
 		 	<li><a href="https://chrome.google.com/webstore/detail/tota11y-plugin-from-khan/oedofneiplgibimfkccchnimiadcmhpe">Google Chrome extension</a></li>
 		 	<li>Both the file and the extension will add a button to the bottom of your page that, when clicked, will show you the results of a scan.</li>
 		</ul>
 	</li>
- 	<li>WAVE
+ 	<li><a href="http://wave.webaim.org/">WAVE</a>
 		<ul>
-		 	<li>Main tool: <a href="http://wave.webaim.org/">http://wave.webaim.org/</a></li>
 		 	<li><a href="https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh">Google Chrome extension</a></li>
 		 	<li>Both the main tool and the extension will scan/audit your site and show you results.</li>
 		 	<li>They also have a premium API.</li>
-		 	<li>From network schools:
-		 		<ul>
-		 			<li>Hampshire College built a web app using the WAVE API to scan multiple URLs: <a href="http://hampshirecollege.github.io/a11yeval">http://hampshirecollege.github.io/a11yeval</a></li>
-		 		</ul>
-		 	</li>
 		</ul>
 	</li>
 </ul>
@@ -234,9 +220,8 @@ post_date: 2017-10-24 22:07:45
 <h3>Screen Readers</h3>
 <ul>
  	<li><a href="http://www.afb.org/prodBrowseCatResults.aspx?CatID=49">List of available screen readers</a> from the American Foundation for the Blind</li>
- 	<li>NVDA
+ 	<li><a href="http://nvaccess.org">NVDA</a>
 		<ul>
-		 	<li><a href="http://nvaccess.org">http://nvaccess.org</a></li>
 		 	<li>Free Open-source screen reader. Only works with Microsoft Windows.</li>
 		 	<li>Works well with Firefox. Can be installed as a portable app on a thumb drive.</li>
 		</ul>
