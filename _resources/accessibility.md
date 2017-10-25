@@ -62,14 +62,34 @@ post_date: 2017-10-24 22:07:45
 </ul>
 <h2>What Schools Are Using</h2>
 <ul>
- 	<li><a href="https://webaudit.unl.edu/">University of Nebraska-Lincoln</a></li>
+ 	<li>University of Nebraska-Lincoln
+ 		<ul>
+ 			<li><a href="https://webaudit.unl.edu/">UNL Web Audit</a>
+ 				<ul>
+ 					<li>Helps you maintain your site by running automatic audits that help you find and fix problems that affect user experience.</li>
+ 				</ul>
+ 			</li>
+ 		</ul>
+ 	</li>
  	<li>Hampshire College
 <ul>
  	<li>Built a web app using the WAVE API to scan multiple URLs: <a href="http://hampshirecollege.github.io/a11yeval">http://hampshirecollege.github.io/a11yeval</a></li>
 </ul>
 </li>
- 	<li><a href="https://accessibility.huit.harvard.edu/">Harvard University Online Accessibility</a> (checklists, guides, resources and policies)</li>
- 	<li><a href="https://soap.stanford.edu/">Stanford’s Online Accessibility Program (SOAP)</a></li>
+ 	<li>Harvard University
+ 		<ul>
+ 			<li><a href="https://accessibility.huit.harvard.edu/">Harvard University Online Accessibility</a>
+ 				<ul>
+ 					<li>Checklists, guides, resources and policies</li>
+ 				</ul>
+ 			</li>
+ 		</ul>
+ 	</li>
+ 	<li>Stanford University
+ 		<ul>
+ 			<li><a href="https://soap.stanford.edu/">Stanford’s Online Accessibility Program (SOAP)</a></li>
+ 		</ul>
+ 	</li>
  	<li>Washington State University
 <ul>
  	<li>Audit process:
@@ -90,7 +110,15 @@ post_date: 2017-10-24 22:07:45
  	<li>They have a lot of open-sources tools <a href="https://github.com/Washingtonstateuniversity">in their Github repo</a>.</li>
 </ul>
 </li>
- 	<li>Birkbeck, University of London - ‘<a href="http://bbk.ac.uk/birkbeck-for-all">Birkbeck for All: Joined-up thinking on accessibility</a>’  - guidelines to support inclusivity of learning resources.</li>
+ 	<li>Birkbeck, University of London
+ 		<ul>
+ 			<li><a href="http://bbk.ac.uk/birkbeck-for-all">Birkbeck for All: Joined-up thinking on accessibility</a>
+ 				<ul>
+ 					<li>Guidelines to support inclusivity of learning resources</li>
+ 				</ul>
+ 			</li>
+ 		</ul>
+ 	</li>
 </ul>
 <h2>Tools</h2>
 <h3>Color Contrast</h3>
