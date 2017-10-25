@@ -5,13 +5,11 @@ author: Paul Gilzow
 post_excerpt: ""
 layout: resource
 permalink: >
-  https://wpcampus.org/resources/vulnerable-wordpress-plugins-report-week-september-15-2017/15740-revision-v1/
+  https://wpcampus.org/resources/accessibility/
 published: true
 post_date: 2017-10-24 22:07:45
 ---
 <h2>Standards</h2>
-
-Hi Roy.
 
 <ul>
  	<li>WCAG 2.0
