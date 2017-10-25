@@ -1,6 +1,6 @@
 ---
 ID: 15742
-post_title: Accessibility Resources/Tools
+post_title: Accessibility
 author: Rachel Cherry
 post_excerpt: ""
 layout: resource
