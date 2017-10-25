@@ -95,8 +95,7 @@ post_date: 2017-10-24 22:07:45
  		<ul>
  			<li><a href="https://webaudit.unl.edu/">UNL Web Audit</a>
  				<ul>
- 					<li>Helps you maintain your site by running automatic audits that help you find and fix problems that affect user experience.</li>
- 					<li>Uses Axe.</li>
+ 					<li>Uses Axe. Helps you maintain your site by running automatic audits that help you find and fix problems that affect user experience.</li>
  				</ul>
  			</li>
  		</ul>
@@ -192,7 +191,7 @@ post_date: 2017-10-24 22:07:45
 	</li>
  	<li><a href="https://github.com/pa11y">Pa11y</a>
 		<ul>
-		 	<li>They have A LOT of open source tools.</li>
+		 	<li>They have a lot of open source tools.</li>
 		</ul>
 	</li>
  	<li><a href="https://siteimprove.com/">Siteimprove</a>
