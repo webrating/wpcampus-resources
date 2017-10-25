@@ -288,7 +288,7 @@ post_date: 2017-10-24 22:07:45
 	</li>
  	<li><a href="https://wordpress.org/plugins/automatic-alternative-text/">Automatic Alternative Text</a>
 		<ul>
-		 	<li>Adds alt text using microsoft cognitive services</li>
+		 	<li>Adds alt text using Microsoft cognitive services</li>
 		</ul>
 	</li>
 </ul>
