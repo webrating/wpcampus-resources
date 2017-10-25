@@ -10,9 +10,6 @@ published: true
 post_date: 2017-10-24 22:07:45
 ---
 <h2>Standards</h2>
-
-Hi Rachel.
-
 <ul>
  	<li>WCAG 2.0
 <ul>
