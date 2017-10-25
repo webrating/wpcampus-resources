@@ -1,7 +1,7 @@
 ---
 ID: 15742
 post_title: Accessibility
-author: Paul Gilzow
+author: Rachel Cherry
 post_excerpt: ""
 layout: resource
 permalink: >
