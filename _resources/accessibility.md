@@ -19,7 +19,7 @@ post_date: 2017-10-24 22:07:45
 </li>
  	<li>Future of WCAG
 <ul>
- 	<li><a href="http://adrianroselli.com/2017/08/whats-new-in-wcag-2-1.html">What’s new in WCAG 2.1</a></li>
+ 	<li><a href="http://adrianroselli.com/2017/08/whats-new-in-wcag-2-1.html">What's new in WCAG 2.1</a></li>
 </ul>
 </li>
  	<li>Section 508
@@ -36,9 +36,9 @@ post_date: 2017-10-24 22:07:45
  	<li><a href="https://axesslab.com/accessibility-according-to-pwd/">Accessibility according to actual people with disabilities</a></li>
  	<li><a href="https://axesslab.com/colorblind-accessibility-web-fail-success-cases/">Colorblind Accessibility on the Web – Fail and Success Cases</a></li>
  	<li><a href="http://inclusivedesignprinciples.org/">Inclusive Design Principles</a></li>
- 	<li><a href="https://css-tricks.com/lets-talk-speech-css/">Let’s Talk About Speech CSS</a></li>
+ 	<li><a href="https://css-tricks.com/lets-talk-speech-css/">Let's Talk About Speech CSS</a></li>
  	<li><a href="https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility">People to Follow in Web Accessibility</a></li>
- 	<li><a href="https://www.fastcodesign.com/3047080/try-reading-this-font-and-youll-better-understand-what-dyslexia-is-like">Try Reading This Font And You’ll Better Understand What Dyslexia Is Like</a></li>
+ 	<li><a href="https://www.fastcodesign.com/3047080/try-reading-this-font-and-youll-better-understand-what-dyslexia-is-like">Try Reading This Font And You'll Better Understand What Dyslexia Is Like</a></li>
  	<li><a href="https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939">Writing CSS with Accessibility in Mind</a></li>
  	<li><a href="https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412">Writing HTML with Accessibility in Mind</a></li>
  	<li><a href="https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9">Writing JavaScript with Accessibility in Mind</a></li>
@@ -53,7 +53,7 @@ post_date: 2017-10-24 22:07:45
  	<li><a href="https://accessibility.18f.gov/checklist/">18F Accessibility Checklist</a></li>
  	<li><a href="http://a11yproject.com/checklist.html">The A11Y Project Checklist</a></li>
  	<li><a href="https://webaim.org/standards/wcag/checklist">WebAIM WCAG 2.0 Checklist</a></li>
- 	<li><a href="https://www.wuhcag.com/wcag-checklist/">“Wuhcag” WCAG 2.0 Checklist</a></li>
+ 	<li><a href="https://www.wuhcag.com/wcag-checklist/">"Wuhcag" WCAG 2.0 Checklist</a></li>
 </ul>
 <h3>Newsletters/Podcasts</h3>
 <ul>
@@ -96,7 +96,7 @@ post_date: 2017-10-24 22:07:45
  	</li>
  	<li>Stanford University
  		<ul>
- 			<li><a href="https://soap.stanford.edu/">Stanford’s Online Accessibility Program (SOAP)</a></li>
+ 			<li><a href="https://soap.stanford.edu/">Stanford's Online Accessibility Program (SOAP)</a></li>
  		</ul>
  	</li>
  	<li>Washington State University
@@ -128,7 +128,7 @@ post_date: 2017-10-24 22:07:45
  	<li><a href="https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll">Google Chrome extension</a></li>
 </ul>
 </li>
- 	<li>“I want to see like the colour blind”
+ 	<li>"I want to see like the colour blind"
 <ul>
  	<li><a href="https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia">Google Chrome extension</a></li>
 </ul>
@@ -265,7 +265,7 @@ post_date: 2017-10-24 22:07:45
 </li>
  	<li><a href="https://github.com/briandeconinck/ncsu-a11y-helper">NC State Accessibility Helper</a>
 <ul>
- 	<li>Adds “Run Accessibility Check” button to post editor, generating an annotated preview highlighting potential accessibility issues</li>
+ 	<li>Adds "Run Accessibility Check" button to post editor, generating an annotated preview highlighting potential accessibility issues</li>
  	<li>Still in active development - contributions welcome!</li>
 </ul>
 </li>
