@@ -64,6 +64,17 @@ post_date: 2017-10-24 22:07:45
 <ul>
  	<li><a href="http://a11yweekly.com/">Accessibility Weekly</a></li>
  	<li><a href="https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g">A11ycasts</a></li>
+ 	<li><a href="https://wpcampus.org/podcast/accessibility/">WPCampus Podcast: Accessibility</a></li>
+</ul>
+
+<h3>WPCampus Sessions</h3>
+<ul>
+ 	<li><a href="https://2017.wpcampus.org/schedule/lightning-talks/accessibility-case-study-wcag-screen-reader-solutions-accordions-tabs/">Accessibility case study: WCAG and screen reader solutions for accordions and tabs</a></li>
+ 	<li><a href="https://online.wpcampus.org/schedule/empathy-and-accessibility-for-the-web/">Empathy and Accessibility for the Web</a></li>
+ 	<li><a href="https://2016.wpcampus.org/schedule/techniques-tools-resources-accessibility/">Techniques, Tools and Resources for Making WordPress Website WCAG 2.0 Compliant</a></li>
+ 	<li><a href="https://2017.wpcampus.org/schedule/tools-approaches-managing-content-accessibility-web-identity-scale/">Tools and approaches for managing content, accessibility and web identity at scale</a></li>
+ 	<li><a href="https://2016.wpcampus.org/schedule/wordpress-accessibility/">WordPress Accessibility: Where We Are and Where We’re Going</a></li>
+ 	<li><a href="https://2017.wpcampus.org/schedule/a11y-workshop/">WORKSHOP: WordPress and A11y</a></li>
 </ul>
 
 <h2>What Schools Are Using</h2>
