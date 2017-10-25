@@ -68,6 +68,7 @@ post_date: 2017-10-24 22:07:45
 </ul>
 
 <h3>WPCampus Sessions</h3>
+<em>The following sessions include video recordings.</em>
 <ul>
  	<li><a href="https://2017.wpcampus.org/schedule/lightning-talks/accessibility-case-study-wcag-screen-reader-solutions-accordions-tabs/">Accessibility case study: WCAG and screen reader solutions for accordions and tabs</a></li>
  	<li><a href="https://online.wpcampus.org/schedule/empathy-and-accessibility-for-the-web/">Empathy and Accessibility for the Web</a></li>
