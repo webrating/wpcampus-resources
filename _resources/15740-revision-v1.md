@@ -1,11 +1,11 @@
 ---
 ID: 15742
 post_title: Accessibility
-author: Rachel Cherry
+author: Paul Gilzow
 post_excerpt: ""
 layout: resource
 permalink: >
-  http://dev-wpcampus.pantheonsite.io/resources/accessibility/
+  https://wpcampus.org/resources/vulnerable-wordpress-plugins-report-week-september-15-2017/15740-revision-v1/
 published: true
 post_date: 2017-10-24 22:07:45
 ---
