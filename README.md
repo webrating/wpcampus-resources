@@ -1,4 +1,4 @@
-# WPCampus: Content for https://wpcampus.org/resources/
+# Managing WPCampus Resources
 
 This repository manages the content for [the Resources section on the main WPCampus website](https://wpcampus.org/resources/).
 
