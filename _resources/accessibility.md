@@ -189,6 +189,12 @@ post_date: 2017-10-24 22:07:45
 		 	<li>Also has a bookmarklet for quick scans on any web page.</li>
 		</ul>
 	</li>
+ 	<li><a href="https://developers.google.com/web/tools/lighthouse/">Lighthouse</a>
+		<ul>
+		 	<li>Works as a Chrome DevTool, CLI, or node module</li>
+			<li>Will check for accessibility issues along with performance issues, best pratices, and if the site is a progressive web app</li>
+		</ul>
+	</li>
  	<li><a href="https://github.com/pa11y">Pa11y</a>
 		<ul>
 		 	<li>They have a lot of open source tools.</li>
