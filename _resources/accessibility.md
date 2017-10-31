@@ -158,11 +158,21 @@ post_date: 2017-10-24 22:07:45
 		 	<li><a href="https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia">Google Chrome extension</a></li>
 		</ul>
 	</li>
+    <li><a href="http://colorsafe.co/">Color Safe</a>
+        <ul>
+            <li>Accessible color palettes based on WCAG Guidelines of text and background contrast ratios.﻿</li>
+        </ul>
+    </li>
  	<li><a href="https://material.io/color/#!/?view.left=0&amp;view.right=0">Color Tool</a>
 		<ul>
 		 	<li>Web page that allows you to insert your color palette and view accessibility information.</li>
 		</ul>
 	</li>
+    <li><a href="https://itunes.apple.com/us/app/sim-daltonism/id693112260">Sim Daltonism</a>
+        <ul>
+            <li>Free Mac OS app that lets you visualize colors as they are perceived with various types of color blindness.﻿﻿</li>
+        </ul>
+    </li>
  	<li><a href="https://webaim.org/resources/contrastchecker/">WebAIM color contrast checker</a>
 		<ul>
 		 	<li>Simple foreground vs. background checker.</li>
