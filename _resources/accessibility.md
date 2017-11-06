@@ -60,11 +60,22 @@ post_date: 2017-10-24 22:07:45
  	<li><a href="https://www.wuhcag.com/wcag-checklist/">"Wuhcag" WCAG 2.0 Checklist</a></li>
 </ul>
 
+<h3>Courses</h3>
+<ul>
+<li><a href="https://webaccessibility.withgoogle.com/course">Google: Introduction to Web Accessibility</a></li>
+</ul>
+
 <h3>Newsletters/Podcasts</h3>
 <ul>
  	<li><a href="http://a11yweekly.com/">Accessibility Weekly</a></li>
  	<li><a href="https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g">A11ycasts</a></li>
  	<li><a href="https://wpcampus.org/podcast/accessibility/">WPCampus Podcast: Accessibility</a></li>
+</ul>
+
+<h3>Websites</h3>
+<ul>
+<li><a href="http://a11yproject.com/">The A11Y Project</a></li>
+<li><a href="https://webaim.org/">WebAIM</a></li>
 </ul>
 
 <h3>WPCampus Sessions</h3>
