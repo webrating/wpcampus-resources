@@ -28,6 +28,7 @@ post_date: 2017-10-24 22:07:45
  			<li><a href="https://www.section508.gov/content/build/website-accessibility-improvement">Improving Website Accessibility</a></li>
  		</ul>
  	</li>
+	<li><a href="https://www.levelaccess.com/accessibility-regulations/">International accessibility laws and standards</a></li>
 </ul>
 
 <h2>Resources</h2>
