@@ -63,7 +63,12 @@ post_date: 2017-10-24 22:07:45
 
 <h3>Courses</h3>
 <ul>
-<li><a href="https://webaccessibility.withgoogle.com/course">Google: Introduction to Web Accessibility</a></li>
+ 	<li><a href="https://webaccessibility.withgoogle.com/course">Google: Introduction to Web Accessibility</a></li>
+</ul>
+
+<h3>How-Tos</h3>
+<ul>
+ 	<li><a href="https://www.marcozehe.de/2015/02/05/advanced-aria-tip-2-accessible-modal-dialogs/">How to make accessible modal dialogs</a></li>
 </ul>
 
 <h3>Newsletters/Podcasts</h3>
@@ -75,9 +80,9 @@ post_date: 2017-10-24 22:07:45
 
 <h3>Websites</h3>
 <ul>
-<li><a href="http://a11yproject.com/">The A11Y Project</a></li>
-<li><a href="https://www.microsoft.com/en-us/design/inclusive">Inclusive Design at Microsoft</a></li>
-<li><a href="https://webaim.org/">WebAIM</a></li>
+ 	<li><a href="http://a11yproject.com/">The A11Y Project</a></li>
+ 	<li><a href="https://www.microsoft.com/en-us/design/inclusive">Inclusive Design at Microsoft</a></li>
+ 	<li><a href="https://webaim.org/">WebAIM</a></li>
 </ul>
 
 <h3>WPCampus Sessions</h3>
