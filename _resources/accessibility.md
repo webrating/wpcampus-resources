@@ -76,6 +76,7 @@ post_date: 2017-10-24 22:07:45
 <h3>Websites</h3>
 <ul>
 <li><a href="http://a11yproject.com/">The A11Y Project</a></li>
+<li><a href="https://www.microsoft.com/en-us/design/inclusive">Inclusive Design at Microsoft</a></li>
 <li><a href="https://webaim.org/">WebAIM</a></li>
 </ul>
 
