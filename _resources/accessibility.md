@@ -66,7 +66,7 @@ post_date: 2017-10-24 22:07:45
  	<li><a href="https://webaccessibility.withgoogle.com/course">Google: Introduction to Web Accessibility</a></li>
 	<li><a href="https://www.inclusivedesign24.org/">Inclusive Design 24 conference</a>
 		<ul>
-			<li>A free 24-Hour online community event on accessibility, archived on YouTube.</li>
+			<li>A free 24-hour online community event on accessibility, archived on YouTube.</li>
 		</ul>
 	</li>
 </ul>
