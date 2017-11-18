@@ -15,15 +15,12 @@ post_date: 2017-10-24 22:07:45
  	<li>WCAG 2.0
 		<ul>
 		 	<li><a href="https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&amp;levels=a%2Caaa">How to meet WCAG 2.0</a></li>
-		</ul>
-	</li>
- 	<li>Future of WCAG
-		<ul>
-		 	<li><a href="http://adrianroselli.com/2017/08/whats-new-in-wcag-2-1.html">What's new in WCAG 2.1</a></li>
+			<li><a href="http://adrianroselli.com/2017/08/whats-new-in-wcag-2-1.html">What's new in WCAG 2.1</a></li>
 		</ul>
 	</li>
  	<li>Section 508
  		<ul>
+			<li><strong>Section 508 now incorporates (WCAG) 2.0.</strong> Must comply beginning January 18, 2018.</li>
  			<li><a href="https://www.section508.gov/node/493">The Section 508 Update</a></li>
  			<li><a href="https://www.section508.gov/content/build/website-accessibility-improvement">Improving Website Accessibility</a></li>
  		</ul>
