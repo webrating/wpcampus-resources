@@ -9,6 +9,74 @@ permalink: >
 published: true
 post_date: 2017-10-24 22:07:45
 ---
+<h2>What is accessibility?</h2>
+
+Refers to the inclusive practice of removing barriers that prevent interaction with, or access to, websites by people with disabilities.
+
+Though estimates vary, most studies find that about one fifth (20%) of the population has some kind of disability. Each of the major categories of disabilities requires certain types of adaptations in the design of web content. Most of the time, these adaptations benefit nearly everyone, not just people with disabilities. Almost everyone benefits from helpful illustrations, properly-organized content, and clear navigation. Similarly, while captions are a necessity for deaf users, they can be helpful to others, including anyone who views a video without audio.
+
+<h3>The major categories of disability types</h3>
+
+<ul>
+	<li>Visual
+		<ul>
+			<li>Blindness, low vision, color-blindness</li>
+		</ul>
+	</li>
+	<li>Hearing
+		<ul>
+			<li>Deafness and hard-of-hearing</li>
+		</ul>
+	</li>
+	<li>Motor
+		<ul>
+			<li>Inability to use a mouse, slow response time, limited fine motor control</li>
+		</ul>
+	</li>
+	<li>Cognitive
+		<ul>
+			<li>Learning disabilities, distractibility, inability to remember or focus on large amounts of information</li>
+		</ul>
+	</li>
+</ul>
+
+<h3>Common barriers</h3>
+
+<ul>
+	<li>Non-text content (images, videos, audio, etc) without text equivalent
+		<ul>
+			<li>Do images have alt attributes? Do videos have captions?</li>
+		</ul>
+	</li>
+	<li>Being unable to access actions and functionality via keyboard and keyboard traps
+		<ul>
+			<li>Can you access links, buttons, modals, tooltips, form fields, esp. radios and checkboxes?</li>
+		</ul>
+	</li>
+	<li>Actions without defined purpose or context
+		<ul>
+			<li>For example: &lt;buttons&gt; without text or a title attribute</li>
+			<li>A screen reader would just read "button" and user would have no idea what happens when they click the button.</li>
+		</ul>
+	</li>
+	<li>Using color to convey information and insufficient design contrast (for those with color blindness)
+		<ul>
+			<li>For example: links that are not underlined.</li>
+			<li>If a user is color blind to blue and there is no underline, they can't tell that a word is a different color and are unaware of the action.</li>
+		</ul>
+	</li>
+	<li>Unable to visually determine if an element has focus
+		<ul>
+			<li>If you tab to a button, a link, or a form field, can the user tell it has focus?</li>
+		</ul>
+	</li>
+	<li>Unable to skip large blocks of repeatable content
+		<ul>
+			<li>For example: If a user is navigating via keyboard, and can't skip over the header, they have to tab through your entire header on every page.</li>
+		</ul>
+	</li>
+</ul>
+
 <h2>Standards</h2>
 
 <ul>
@@ -26,6 +94,20 @@ post_date: 2017-10-24 22:07:45
  		</ul>
  	</li>
 	<li><a href="https://www.levelaccess.com/accessibility-regulations/">International accessibility laws and standards</a></li>
+</ul>
+
+<h2>ARIA (Accessible Rich Internet Applications)</h2>
+
+WAI-ARIA (Accessible Rich Internet Applications or ARIA) is a W3C protocol for enhancing and supporting accessibility of scripted and dynamic content to be provided to assistive technology. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies. ARIA enhances accessibility of interactive controls (such as tree menus, drag and drop, sliders, sort controls, etc.), provides content roles for identifying page structure (navigation, search, main content, etc.), areas that can be dynamically updated (called "live regions" in ARIA), better support for keyboard accessibility and interactivity, and much more.
+
+ARIA is supported by most up-to-date browsers and screen readers. It is also supported by many scripting libraries. Although ARIA is not yet universally supported, when used with existing HTML and scripting accessibility techniques, it can provide additional accessibility support where it is supported while not causing compatibility issues where it is not yet supported.
+
+<ul>
+	<li><a href="https://www.w3.org/TR/wai-aria/introduction">W3C: (WAI-ARIA) 1.1</a></li>
+	<li><a href="https://www.w3.org/WAI/intro/aria">W3C: WAI-ARIA Overview</a></li>
+	<li><a href="https://developers.google.com/web/fundamentals/accessibility/semantics-aria/">Google: Introduction to ARIA</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/An_overview_of_accessible_web_applications_and_widgets">MDN: An overview of accessible web applications and widgets</a></li>
+	<li><a href="http://accessibility%20of%20rich%20internet%20applications/">WebAIM: ARIA</a></li>
 </ul>
 
 <h2>Resources</h2>
