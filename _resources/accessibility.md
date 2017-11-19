@@ -140,7 +140,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="https://www.wuhcag.com/wcag-checklist/">"Wuhcag" WCAG 2.0 Checklist</a></li>
 </ul>
 
-<h3>Courses/Professional Developmemt</h3>
+<h3>Courses/Professional Development</h3>
 <ul>
  	<li><a href="https://webaccessibility.withgoogle.com/course">Google: Introduction to Web Accessibility</a></li>
 	<li><a href="https://www.inclusivedesign24.org/">Inclusive Design 24 conference</a>
