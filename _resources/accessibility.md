@@ -81,6 +81,15 @@ Though estimates vary, most studies find that about one fifth (20%) of the popul
 	</li>
 </ul>
 
+<h2>How To Get Started</h2>
+Introducing accessibility practices into your workflow has a few steps but over time it will become second nature. It makes your technology better for everyone. You'll find all the information you need on this page.
+
+<ol>
+	<li>Become familiar with WCAG standards and practices (text alternatives, access via keyboard, etc).</li>
+	<li>Adopt a checklist into your workflow to ensure you've addressed needs for new content and functionality.</li>
+	<li>Scan new content and functionality for standard violations.</li>
+</ol>
+
 <h2>Standards</h2>
 
 <ul>
