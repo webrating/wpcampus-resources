@@ -1,6 +1,7 @@
 ---
 ID: 16722
 post_title: Plugins
+post_status: draft
 author: WPCampus
 post_excerpt: ""
 layout: resource
