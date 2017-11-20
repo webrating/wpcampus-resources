@@ -1,7 +1,7 @@
 ---
 ID: 15742
 post_title: Accessibility
-author: Rachel Cherry
+author: WPCampus
 post_excerpt: >
   Accessibility refers to the inclusive
   practice of removing barriers that
