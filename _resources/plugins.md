@@ -1,7 +1,7 @@
 ---
 ID: 16722
 post_title: Plugins
-author: Rachel Cherry
+author: WPCampus
 post_excerpt: ""
 layout: resource
 permalink: https://wpcampus.org/resources/plugins/
