@@ -2,14 +2,10 @@
 ID: 15742
 post_title: Accessibility
 author: Rachel Cherry
-post_excerpt: >
-  Accessibility refers to the inclusive
-  practice of removing barriers that
-  prevent interaction with, or access to,
-  websites by people with disabilities.
+post_excerpt: ""
 layout: resource
 permalink: >
-  https://wpcampus.org/resources/accessibility/
+  http://dev-wpcampus.pantheonsite.io/resources/accessibility/
 published: true
 post_date: 2017-10-24 22:07:45
 ---
