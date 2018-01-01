@@ -329,7 +329,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="https://developers.google.com/web/tools/lighthouse/">Lighthouse</a>
 		<ul>
 		 	<li>Works as a Chrome DevTool, CLI, or node module</li>
-			<li>Will check for accessibility issues along with performance issues, best pratices, and if the site is a progressive web app</li>
+			<li>Will check for accessibility issues along with performance issues, best practices, and if the site is a progressive web app</li>
 		</ul>
 	</li>
  	<li><a href="https://github.com/pa11y">Pa11y</a>
