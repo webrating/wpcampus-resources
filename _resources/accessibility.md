@@ -390,7 +390,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 	</li>
 </ul>
 
-<h3>WordPress plugins</h3>
+<h3>WordPress Plugins</h3>
 <ul>
  	<li><a href="https://wordpress.org/plugins/font-resizer/">Font Resizer</a>
 		<ul>
