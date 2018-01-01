@@ -326,6 +326,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 		 	<li>Also has a bookmarklet for quick scans on any web page.</li>
 		</ul>
 	</li>
+	<li><a href="https://open-indy.github.io/Koa11y/">Koa11y</a>
+		<ul>
+			<li>Koa11y is a desktop app that allows you to automatically detect accessibility issues on webpages.</li>
+		</ul>
+	</li>
  	<li><a href="https://developers.google.com/web/tools/lighthouse/">Lighthouse</a>
 		<ul>
 		 	<li>Works as a Chrome DevTool, CLI, or node module</li>
