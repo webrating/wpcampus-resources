@@ -305,6 +305,12 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 		 	<li>Adds a tab to your developer tools to run a scan/audit of your current page.</li>
 		</ul>
 	</li>
+	<li><a href="https://addyosmani.com/a11y/">A11y Command-line Tools</a>
+		<ul>
+			<li>Web accessibility audits powered by the Chrome Accessibility Developer Tools.</li>
+			<li>Run audits against local or remote URLs in the command-line to return a list of accessibility improvements that can be made.</li>
+		</ul>
+	</li>
  	<li><a href="https://www.deque.com/products/axe/">Axe</a>
  	    <ul>
 		 	<li><a href="https://github.com/dequelabs/axe-core">Axe-core</a> is a Javascript file you can use to scan your site.</li>
