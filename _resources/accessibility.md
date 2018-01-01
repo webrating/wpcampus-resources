@@ -199,7 +199,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  		<ul>
  			<li><a href="http://bbk.ac.uk/birkbeck-for-all">Birkbeck for All: Joined-up thinking on accessibility</a>
  				<ul>
- 					<li>Guidelines to support inclusivity of learning resources</li>
+ 					<li>Guidelines to support inclusivity of learning resources.</li>
  				</ul>
  			</li>
  		</ul>
@@ -213,7 +213,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  		<ul>
  			<li><a href="https://accessibility.huit.harvard.edu/">Harvard University Online Accessibility</a>
  				<ul>
- 					<li>Checklists, guides, resources and policies</li>
+ 					<li>Contains checklists, guides, resources, and policies.</li>
  				</ul>
  			</li>
  		</ul>
@@ -250,7 +250,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 			<li><a href="https://web.wsu.edu/accessibility-guides/">Accessibility Guides</a> for the web, forked from the <a href="https://github.com/18F/accessibility/">18F accessibility guides</a>.</li>
 			<li><a href="https://github.com/washingtonstateuniversity/WSU-Accessibility-Collector">WSU Accessibility Collector</a> (in development)
 				<ul>
-					<li>Uses <a href="https://github.com/pa11y/pa11y">Pa11y</a> for accessibility checking, which in turn uses <a href="https://github.com/squizlabs/HTML_CodeSniffer">HTML_CodeSniffer</a></li>
+					<li>Uses <a href="https://github.com/pa11y/pa11y">Pa11y</a> for accessibility checking, which in turn uses <a href="https://github.com/squizlabs/HTML_CodeSniffer">HTML_CodeSniffer</a>.</li>
 				</ul>
 			</li>
 			<li><a href="https://github.com/washingtonstateuniversity/WSU-Accessibility-Dashboard">WSU Accessibility Dashboard</a> (in development) and the corresponding <a href="https://dashboard.wsu.edu/accessibility/">public facing dashboard</a>.</li>
@@ -263,14 +263,16 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 
 <h3>Color Contrast</h3>
 <ul>
- 	<li>Color Contrast Analyzer
+	<li>Color Contrast Analyzer
 		<ul>
-		 	<li><a href="https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll">Google Chrome extension</a></li>
+			<li>Is a <a href="https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll">Google Chrome extension</a>.</li>
+			<li>Adds a button to the top of the browser that, when clicked, will analyze a web page for conformance with WCAG 2.0 color contrast requirements.</li>
 		</ul>
 	</li>
- 	<li>"I want to see like the colour blind"
+	<li>"I want to see like the colour blind"
 		<ul>
-		 	<li><a href="https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia">Google Chrome extension</a></li>
+			<li>Is a <a href="https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia">Google Chrome extension</a>.</li>
+			<li>Adds a button to the top of the browser that, when clicked, will show you how your web page appears to those with color blindness.</li>
 		</ul>
 	</li>
     <li><a href="http://colorsafe.co/">Color Safe</a>
@@ -299,25 +301,26 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 <ul>
  	<li>Accessibility Developer Tools
 		<ul>
-		 	<li>Is a <a href="https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb">Google Chrome extension</a> that adds a tab to your developer tools to run a scan/audit of your current page.</li>
+		 	<li>Is a <a href="https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb">Google Chrome extension</a>.</li>
+		 	<li>Adds a tab to your developer tools to run a scan/audit of your current page.</li>
 		</ul>
 	</li>
  	<li><a href="https://www.deque.com/products/axe/">Axe</a>
  	    <ul>
 		 	<li><a href="https://github.com/dequelabs/axe-core">Axe-core</a> is a Javascript file you can use to scan your site.</li>
-		 	<li>Offers a <a href="https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd">Google Chrome extension</a> that adds a tab to your developer tools to run a scan/audit of your page.</li>
+		 	<li>Offers a <a href="https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd">Google Chrome extension</a>. Adds a tab to your developer tools to run a scan/audit of your current page.</li>
 		 	<li>They offer premium services.</li>
 	    </ul>
 	</li>
  	<li>ARIA validator
 		<ul>
-		 	<li><a href="https://chrome.google.com/webstore/detail/aria-validator/oigghlanfjgnkcndchmnlnmaojahnjoc">Google Chrome extension</a> that adds a button at the top of the browser that, when clicked, will scan and audit ARIA usage.</li>
+			<li>Is a <a href="https://chrome.google.com/webstore/detail/aria-validator/oigghlanfjgnkcndchmnlnmaojahnjoc">Google Chrome extension</a>.</li>
+			<li>Adds a button to the top of the browser that, when clicked, will scan and audit ARIA usage.</li>
 		</ul>
 	</li>
  	<li><a href="https://fae.disability.illinois.edu">Functional Accessibility Evaluator</a>
 		<ul>
-		 	<li>Developed by the Disability Research and Educational Services at the University of Illinois at Urbana-Champaign</li>
-		 	<li><a href="https://fae.disability.illinois.edu/abouts/">Learn more about the tool</a></li>
+			<li>Developed by the Disability Research and Educational Services at the University of Illinois at Urbana-Champaign. <a href="https://fae.disability.illinois.edu/abouts/">Learn more about the tool</a></li>
 		</ul>
 	</li>
  	<li><a href="https://squizlabs.github.io/HTML_CodeSniffer/">HTML CodeSniffer</a>
@@ -333,8 +336,8 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 	</li>
  	<li><a href="https://developers.google.com/web/tools/lighthouse/">Lighthouse</a>
 		<ul>
-		 	<li>Works as a Chrome DevTool, CLI, or node module</li>
-			<li>Will check for accessibility issues along with performance issues, best practices, and if the site is a progressive web app</li>
+			<li>Works as a Chrome DevTool, CLI, or node module.</li>
+			<li>Will check for accessibility issues along with performance issues, best practices, and if the site is a progressive web app.</li>
 		</ul>
 	</li>
  	<li><a href="https://github.com/pa11y">Pa11y</a>
@@ -344,20 +347,20 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 	</li>
  	<li><a href="https://siteimprove.com/">Siteimprove</a>
 		<ul>
-		 	<li><a href="https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc">Google Chrome extension</a> that adds a button at the top of the browser that, when clicked, will scan/audit your web page.</li>
+		 	<li>Offers a <a href="https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc">Google Chrome extension</a>. Adds a button to the top of the browser that, when clicked, will scan/audit your web page.</li>
 		 	<li>They offer premium services.</li>
 		</ul>
 	</li>
  	<li><a href="http://khan.github.io/tota11y/">Tota11y</a>
 		<ul>
-		 	<li>Has Javascript file you can place on site</li>
-		 	<li><a href="https://chrome.google.com/webstore/detail/tota11y-plugin-from-khan/oedofneiplgibimfkccchnimiadcmhpe">Google Chrome extension</a></li>
-		 	<li>Both the file and the extension will add a button to the bottom of your page that, when clicked, will show you the results of a scan.</li>
+			<li>Has Javascript file you can place on site.</li>
+			<li>Offers a <a href="https://chrome.google.com/webstore/detail/tota11y-plugin-from-khan/oedofneiplgibimfkccchnimiadcmhpe">Google Chrome extension</a>.</li>
+			<li>Both the file and the extension will add a button to the bottom of your page that, when clicked, will show you the results of a scan.</li>
 		</ul>
 	</li>
  	<li><a href="http://wave.webaim.org/">WAVE</a>
 		<ul>
-		 	<li><a href="https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh">Google Chrome extension</a></li>
+		 	<li>Offers a <a href="https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh">Google Chrome extension</a>.</li>
 		 	<li>Both the main tool and the extension will scan/audit your site and show you results.</li>
 		 	<li>They also have a premium API.</li>
 		</ul>
@@ -376,7 +379,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="https://dequeuniversity.com/screenreaders/survival-guide">Screen Reader Survival Guide</a></li>
  	<li>Chromevox
 		<ul>
-		 	<li>Is a <a href="https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en">Google Chrome extension</a></li>
+		 	<li>Is a <a href="https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en">Google Chrome extension</a>.</li>
 		</ul>
 	</li>
 </ul>
@@ -409,8 +412,8 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 	</li>
  	<li><a href="https://github.com/briandeconinck/ncsu-a11y-helper">NC State Accessibility Helper</a>
 		<ul>
-		 	<li>Adds "Run Accessibility Check" button to post editor, generating an annotated preview highlighting potential accessibility issues</li>
-		 	<li>Still in active development - contributions welcome!</li>
+			<li>Adds "Run Accessibility Check" button to post editor, generating an annotated preview highlighting potential accessibility issues.</li>
+			<li>Still in active development - contributions welcome!</li>
 		</ul>
 	</li>
  	<li><a href="https://wordpress.org/plugins/wp-accessibility/">WP Accessibility</a>
