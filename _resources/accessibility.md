@@ -314,7 +314,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="https://www.deque.com/products/axe/">Axe</a>
  	    <ul>
 		 	<li><a href="https://github.com/dequelabs/axe-core">Axe-core</a> is a Javascript file you can use to scan your site.</li>
-		 	<li>Offers a <a href="https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd">Google Chrome extension</a>. Adds a tab to your developer tools to run a scan/audit of your current page.</li>
+		 	<li>Offers a <a href="https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd">Google Chrome extension</a>. Adds a tab to your developer tools to run a scan/audit of your current page.
+				<ul>
+					<li><a href="https://chrome.google.com/webstore/detail/axe-coconut/iobddmbdndbbbfjopjdgadphaoihpojp">aXe-Coconut</a> is a Chrome extension that will allow you to try their latest APIs and experimental rules before they are released.</li>
+				</ul>
+		    	</li>
 		 	<li>They offer premium services.</li>
 	    </ul>
 	</li>
