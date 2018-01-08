@@ -1,11 +1,11 @@
 ---
-ID: 17536
+ID: 17067
 post_title: Wallpapers
-author: Rachel Cherry
+author: Rachel Carden
 post_excerpt: ""
 layout: resource
 permalink: >
-  https://wpcampus.org/resources/wallpapers/
+  http://dev-wpcampus.pantheonsite.io/resources/wallpapers/
 published: true
 post_date: 2018-01-08 00:55:18
 ---
