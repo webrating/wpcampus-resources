@@ -380,19 +380,25 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 
 <h3>Screen Readers</h3>
 <ul>
- 	<li><a href="http://www.afb.org/prodBrowseCatResults.aspx?CatID=49">List of available screen readers</a> from the American Foundation for the Blind</li>
- 	<li><a href="http://nvaccess.org">NVDA</a>
-		<ul>
-		 	<li>Free Open-source screen reader. Only works with Microsoft Windows.</li>
-		 	<li>Works well with Firefox. Can be installed as a portable app on a thumb drive.</li>
-		</ul>
-	</li>
- 	<li><a href="https://dequeuniversity.com/screenreaders/survival-guide">Screen Reader Survival Guide</a></li>
- 	<li>Chromevox
-		<ul>
-		 	<li>Is a <a href="https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en">Google Chrome extension</a>.</li>
-		</ul>
-	</li>
+    <li><a href="http://www.afb.org/prodBrowseCatResults.aspx?CatID=49">List of available screen readers</a> from the American Foundation for the Blind</li>
+    <li><a href="https://webaim.org/techniques/screenreader/">Designing for Screen Reader Compatibility</a></li>
+    <li><a href="https://dequeuniversity.com/screenreaders/survival-guide">Screen Reader Survival Guide</a></li>
+    <li><a href="http://nvaccess.org">For Windows: NVDA</a>
+        <ul>
+            <li>Free Open-source screen reader. Only works with Microsoft Windows.</li>
+            <li>Works well with Firefox. Can be installed as a portable app on a thumb drive.</li>
+        </ul>
+    </li>
+    <li><a href="https://www.apple.com/voiceover/info/guide/_1124.html">For Mac: VoiceOver</a>
+        <ul>
+            <li>Is built-in to Mac OS.</li>
+        </ul>
+    </li>
+    <li>Chromevox
+        <ul>
+            <li>Is a <a href="https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en">Google Chrome extension</a>.</li>
+        </ul>
+    </li>
 </ul>
 
 <h3>Tools/Patterns/Generators</h3>
