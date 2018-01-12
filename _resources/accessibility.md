@@ -127,16 +127,17 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 
 <h3>Articles</h3>
 <ul>
- 	<li><a href="http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/">7 Principles of Universal Design</a></li>
- 	<li><a href="https://axesslab.com/accessibility-according-to-pwd/">Accessibility according to actual people with disabilities</a></li>
- 	<li><a href="https://axesslab.com/colorblind-accessibility-web-fail-success-cases/">Colorblind Accessibility on the Web – Fail and Success Cases</a></li>
- 	<li><a href="http://inclusivedesignprinciples.org/">Inclusive Design Principles</a></li>
- 	<li><a href="https://css-tricks.com/lets-talk-speech-css/">Let's Talk About Speech CSS</a></li>
- 	<li><a href="https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility">People to Follow in Web Accessibility</a></li>
- 	<li><a href="https://www.fastcodesign.com/3047080/try-reading-this-font-and-youll-better-understand-what-dyslexia-is-like">Try Reading This Font And You'll Better Understand What Dyslexia Is Like</a></li>
- 	<li><a href="https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939">Writing CSS with Accessibility in Mind</a></li>
- 	<li><a href="https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412">Writing HTML with Accessibility in Mind</a></li>
- 	<li><a href="https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9">Writing JavaScript with Accessibility in Mind</a></li>
+    <li><a href="http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/">7 Principles of Universal Design</a></li>
+    <li><a href="https://axesslab.com/accessibility-according-to-pwd/">Accessibility according to actual people with disabilities</a></li>
+    <li><a href="https://axesslab.com/colorblind-accessibility-web-fail-success-cases/">Colorblind Accessibility on the Web – Fail and Success Cases</a></li>
+    <li><a href="http://inclusivedesignprinciples.org/">Inclusive Design Principles</a></li>
+    <li><a href="https://css-tricks.com/lets-talk-speech-css/">Let's Talk About Speech CSS</a></li>
+    <li><a href="https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility">People to Follow in Web Accessibility</a></li>
+    <li><a href="https://www.fastcodesign.com/3047080/try-reading-this-font-and-youll-better-understand-what-dyslexia-is-like">Try Reading This Font And You'll Better Understand What Dyslexia Is Like</a></li>
+    <li><a href="https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939">Writing CSS with Accessibility in Mind</a></li>
+    <li><a href="https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412">Writing HTML with Accessibility in Mind</a></li>
+    <li><a href="https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9">Writing JavaScript with Accessibility in Mind</a></li>
+    <li><a href="https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/">Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility</a></li>
 </ul>
 
 <h3>Books</h3>
@@ -403,7 +404,8 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 	</li>
  	<li>Modals
 		<ul>
-		 	<li><a href="https://launchy.io/">Launchy, an accessible modal window</a></li>
+            <li><a href="https://launchy.io/">Launchy, an accessible modal window</a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog">The &lt;dialog&gt; element</a></li>
 		</ul>
 	</li>
 </ul>
