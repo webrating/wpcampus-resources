@@ -148,10 +148,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 
 <h3>Checklists</h3>
 <ul>
- 	<li><a href="https://accessibility.18f.gov/checklist/">18F Accessibility Checklist</a></li>
- 	<li><a href="http://a11yproject.com/checklist.html">The A11Y Project Checklist</a></li>
- 	<li><a href="https://webaim.org/standards/wcag/checklist">WebAIM WCAG 2.0 Checklist</a></li>
- 	<li><a href="https://www.wuhcag.com/wcag-checklist/">"Wuhcag" WCAG 2.0 Checklist</a></li>
+    <li><a href="https://accessibility.18f.gov/checklist/">18F Accessibility Checklist</a></li>
+    <li><a href="http://a11yproject.com/checklist.html">The A11Y Project Checklist</a></li>
+    <li><a href="https://webaim.org/standards/wcag/checklist">WebAIM WCAG 2.0 Checklist</a></li>
+    <li><a href="https://www.wuhcag.com/wcag-checklist/">"Wuhcag" WCAG 2.0 Checklist</a></li>
+    <li><a href="https://itunes.apple.com/it/app/wcag-accessibility-checklist/id1130086539?l=en&mt=8">WCAG Accessibility Checklist (Mac iOS app)</a></li>
 </ul>
 
 <h3>Courses/Professional Development</h3>
