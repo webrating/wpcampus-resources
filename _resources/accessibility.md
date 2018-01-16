@@ -165,16 +165,19 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 	</li>
 </ul>
 
-<h3>How-Tos</h3>
-<ul>
- 	<li><a href="https://www.marcozehe.de/2015/02/05/advanced-aria-tip-2-accessible-modal-dialogs/">How to make accessible modal dialogs</a></li>
-</ul>
-
 <h3>Newsletters/Podcasts</h3>
 <ul>
  	<li><a href="http://a11yweekly.com/">Accessibility Weekly</a></li>
  	<li><a href="https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g">A11ycasts</a></li>
  	<li><a href="https://wpcampus.org/podcast/accessibility/">WPCampus Podcast: Accessibility</a></li>
+</ul>
+
+<h3>References (by subject)</h3>
+<h4>Modals/Dialogs</h4>
+<ul>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog">The &lt;dialog&gt; element</a></li>
+	<li><a href="https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/">Meet the New Dialog Element</a></li>
+	<li><a href="https://www.marcozehe.de/2015/02/05/advanced-aria-tip-2-accessible-modal-dialogs/">How to make accessible modal dialogs</a></li>
 </ul>
 
 <h3>Websites</h3>
@@ -412,7 +415,6 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li>Modals
 		<ul>
             <li><a href="https://launchy.io/">Launchy, an accessible modal window</a></li>
-            <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog">The &lt;dialog&gt; element</a></li>
 		</ul>
 	</li>
 </ul>
