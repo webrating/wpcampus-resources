@@ -158,6 +158,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 <h3>Courses/Professional Development</h3>
 <ul>
  	<li><a href="https://webaccessibility.withgoogle.com/course">Google: Introduction to Web Accessibility</a></li>
+	<li><a href="https://www.udacity.com/course/web-accessibility--ud891">Developing with empathy: Web Accessibility course from Google and Udacity</a></li>
 	<li><a href="https://www.inclusivedesign24.org/">Inclusive Design 24 conference</a>
 		<ul>
 			<li>A free 24-hour online community event on accessibility, archived on YouTube.</li>
