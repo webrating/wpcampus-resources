@@ -397,6 +397,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
     <li><a href="https://www.apple.com/voiceover/info/guide/_1124.html">For Mac: VoiceOver</a>
         <ul>
             <li>Is built-in to Mac OS.</li>
+			<li><a href="http://accessibility.psu.edu/screenreaders/voiceover/">Helpful guide to VoiceOver commands</a></li>
         </ul>
     </li>
     <li>Chromevox
