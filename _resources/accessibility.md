@@ -127,6 +127,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 
 <h3>Articles</h3>
 <ul>
+	<li><a href="https://the-pastry-box-project.net/anne-gibson/2014-july-31">An Alphabet of Accessibility Issues</a></li>
     <li><a href="http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/">7 Principles of Universal Design</a></li>
     <li><a href="https://axesslab.com/accessibility-according-to-pwd/">Accessibility according to actual people with disabilities</a></li>
     <li><a href="https://axesslab.com/colorblind-accessibility-web-fail-success-cases/">Colorblind Accessibility on the Web – Fail and Success Cases</a></li>
