@@ -187,6 +187,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="http://a11yproject.com/">The A11Y Project</a></li>
  	<li><a href="https://www.microsoft.com/en-us/design/inclusive">Inclusive Design at Microsoft</a></li>
  	<li><a href="https://webaim.org/">WebAIM</a></li>
+	<li><a href="https://a11ywins.tumblr.com/">Accessibility Wins</a>
+		<ul>
+			<li>Showcasing accessible user interfaces and tools.</li>
+		</ul>
+	</li>
 </ul>
 
 <h3>WPCampus Sessions</h3>
