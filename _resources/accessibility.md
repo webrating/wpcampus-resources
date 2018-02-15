@@ -84,6 +84,8 @@ Though estimates vary, most studies find that about one fifth (20%) of the popul
 <h2>How To Get Started</h2>
 Introducing accessibility practices into your workflow has a few steps but over time it will become second nature. It makes your technology better for everyone. You'll find all the information you need on this page.
 
+The W3C also has a great resource for <a href="https://www.w3.org/WAI/gettingstarted/tips/index.html">Tips for Getting Started with Web Accessibility</a>.
+
 <ol>
 	<li>Become familiar with WCAG standards and practices (text alternatives, access via keyboard, etc).</li>
 	<li>Adopt a checklist into your workflow to ensure you've addressed needs for new content and functionality.</li>
@@ -139,6 +141,13 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
     <li><a href="https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412">Writing HTML with Accessibility in Mind</a></li>
     <li><a href="https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9">Writing JavaScript with Accessibility in Mind</a></li>
     <li><a href="https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/">Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility</a></li>
+	<li><a href="https://www.w3.org/WAI/gettingstarted/tips/index.html">Tips for Getting Started with Web Accessibility</a>
+		<ul>
+			<li><a href="https://www.w3.org/WAI/gettingstarted/tips/designing.html">Design</a></li>
+			<li><a href="https://www.w3.org/WAI/gettingstarted/tips/writing.html">Writing</a></li>
+			<li><a href="https://www.w3.org/WAI/gettingstarted/tips/developing.html">Engineering</a></li>
+		</ul>
+	</li>
 </ul>
 
 <h3>Books</h3>
