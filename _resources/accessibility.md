@@ -128,7 +128,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 <h2>Resources</h2>
 
 <div class="panel">
-	When one resource page isn't enough, here are some other lists of resources:
+	When one resource page isn't enough, here are some more options. <em>There will no doubt be crossover.</em>
 	<ul>
 		<li><a href="https://docs.google.com/spreadsheets/d/1Tx-but8PTLcf6ipevyujNOTZS5ms4XBkJoaW13Wg6IU/edit#gid=0">Accessibility Tools List from Accessibilty Summit 2016</a></li>
 	</ul>
