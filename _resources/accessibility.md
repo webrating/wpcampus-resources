@@ -313,6 +313,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 		 	<li>Web page that allows you to insert your color palette and view accessibility information.</li>
 		</ul>
 	</li>
+	<li><a href="https://hexnaw.com/">Hex Naw</a>
+		<ul>
+			<li>Hex Naw is a tool that helps designers and developers test entire color systems for contrast and accessibility.</li>
+		</ul>	
+	</li>
     <li><a href="https://itunes.apple.com/us/app/sim-daltonism/id693112260">Sim Daltonism</a>
         <ul>
             <li>Free Mac OS app that lets you visualize colors as they are perceived with various types of color blindness.﻿﻿</li>
