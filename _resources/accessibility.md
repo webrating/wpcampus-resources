@@ -326,6 +326,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="https://webaim.org/resources/contrastchecker/">WebAIM color contrast checker</a>
 		<ul>
 		 	<li>Simple foreground vs. background checker.</li>
+			<li><a href="https://webaim.org/resources/contrastchecker/?fcolor=F000F0&bcolor=F5F5F5&api">WebAim color contrast checker API</a>
+				<ul>
+					<li>Pass foreground and background color. Returns a JSON object with the contrast ratio and the AA/AAA pass/fail states.</li>
+				</ul>
+			</li>
 		</ul>
 	</li>
 </ul>
