@@ -303,11 +303,16 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 			<li>Adds a button to the top of the browser that, when clicked, will show you how your web page appears to those with color blindness.</li>
 		</ul>
 	</li>
-    <li><a href="http://colorsafe.co/">Color Safe</a>
-        <ul>
-            <li>Accessible color palettes based on WCAG Guidelines of text and background contrast ratios.﻿</li>
-        </ul>
-    </li>
+	<li><a href="http://a11yrocks.com/colorPalette/">A11y Color Palette</a>
+		<ul>
+			<li>Helps you visualize an entire palette of all color combinations with accessibility in mind. The combinations are ordered by color contrast ratio. Try it out with sample colors or create a palette of your own.</li>
+		</ul>
+	</li>
+    	<li><a href="http://colorsafe.co/">Color Safe</a>
+		<ul>
+		    <li>Accessible color palettes based on WCAG Guidelines of text and background contrast ratios.﻿</li>
+		</ul>
+	    </li>
  	<li><a href="https://material.io/color/#!/?view.left=0&amp;view.right=0">Color Tool</a>
 		<ul>
 		 	<li>Web page that allows you to insert your color palette and view accessibility information.</li>
