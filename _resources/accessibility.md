@@ -123,6 +123,8 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 	<li><a href="https://developers.google.com/web/fundamentals/accessibility/semantics-aria/">Google: Introduction to ARIA</a></li>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/An_overview_of_accessible_web_applications_and_widgets">MDN: An overview of accessible web applications and widgets</a></li>
 	<li><a href="http://accessibility%20of%20rich%20internet%20applications/">WebAIM: ARIA</a></li>
+	<li><a href="http://a11yproject.com/posts/getting-started-aria">A11y Project: Getting Started With ARIA</a></li> 
+	<li><a href="http://zomigi.com/blog/videos-of-screen-readers-using-aria-updated/">Videos of screen readers using ARIA</a></li>
 </ul>
 
 <h2>Resources</h2>
@@ -190,6 +192,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="https://wpcampus.org/podcast/accessibility/">WPCampus Podcast: Accessibility</a></li>
 </ul>
 
+<h3>Presentations</h3>
+<ul>
+	<li><a href="https://www.youtube.com/watch?v=IYg66C9PQy8">The API You Probably Didn't Know Existed</a> - Amanda Rush, LoopConf</li>
+</ul>
+
 <h3>References (by subject)</h3>
 <h4>Modals/Dialogs</h4>
 <ul>
@@ -211,6 +218,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 	<li><a href="https://www.wuhcag.com/">WUHCAG: Web accessibility for developers</a></li>
 </ul>
 
+<h3>WordPress</h3>
+<ul>
+	<li><a href="https://developer.wordpress.org/themes/functionality/accessibility/">Accessibility - WordPress Theme Handbook</a></li>
+</ul>
+	
 <h3>WPCampus Sessions</h3>
 <em>The following sessions include video recordings.</em>
 <ul>
@@ -343,6 +355,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 
 <h3>Components</h3>
 <ul>
+	<li><a href="https://inclusive-components.design/">Inclusive Components</a></li>
 	<li><a href="https://www.w3.org/blog/wai-components-gallery/">Accessible UI Components List</a> from the W3C</li>
 	<li>Modals
 		<ul>
