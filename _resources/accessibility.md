@@ -490,7 +490,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 
 <h2>Components</h2>
 <ul>
-	<li><a href="https://inclusive-components.design/">Inclusive Components</a></li>
+	<li><a href="https://inclusive-components.design/">Inclusive Components</a>
+		<ul>
+			<li>A blog/pattern library for designing inclusive web interfaces.</li>
+		</ul>
+	</li>
 	<li><a href="https://www.w3.org/blog/wai-components-gallery/">Accessible UI Components List</a> from the W3C</li>
 	<li>Modals
 		<ul>
