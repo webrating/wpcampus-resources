@@ -208,6 +208,7 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 			<li>Showcasing accessible user interfaces and tools.</li>
 		</ul>
 	</li>
+	<li><a href="https://www.wuhcag.com/">WUHCAG: Web accessibility for developers</a></li>
 </ul>
 
 <h3>WPCampus Sessions</h3>
