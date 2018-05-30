@@ -353,16 +353,6 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 	</li>
 </ul>
 
-<h3>Components</h3>
-<ul>
-	<li><a href="https://inclusive-components.design/">Inclusive Components</a></li>
-	<li><a href="https://www.w3.org/blog/wai-components-gallery/">Accessible UI Components List</a> from the W3C</li>
-	<li>Modals
-		<ul>
-            <li><a href="https://launchy.io/">Launchy, an accessible modal window</a></li>
-		</ul>
-	</li>
-</ul>
 
 <h3>Scanning/Audits</h3>
 <ul>
@@ -468,15 +458,6 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
     </li>
 </ul>
 
-<h3>Generators</h3>
-<ul>
- 	<li>Documentation
-		<ul>
-		 	<li><a href="https://developer.paciellogroup.com/blog/2017/09/infusion-an-inclusive-documentation-builder/">Infusion, an accessible documentation builder</a></li>
-		</ul>
-	</li>
-</ul>
-
 <h3>WordPress Plugins</h3>
 <ul>
  	<li><a href="https://wordpress.org/plugins/font-resizer/">Font Resizer</a>
@@ -503,6 +484,22 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="https://wordpress.org/plugins/automatic-alternative-text/">Automatic Alternative Text</a>
 		<ul>
 		 	<li>Adds alt text using Microsoft cognitive services</li>
+		</ul>
+	</li>
+</ul>
+
+<h2>Components</h2>
+<ul>
+	<li><a href="https://inclusive-components.design/">Inclusive Components</a></li>
+	<li><a href="https://www.w3.org/blog/wai-components-gallery/">Accessible UI Components List</a> from the W3C</li>
+	<li>Modals
+		<ul>
+            <li><a href="https://launchy.io/">Launchy, an accessible modal window</a></li>
+		</ul>
+	</li>
+	<li>Documentation
+		<ul>
+		 	<li><a href="https://developer.paciellogroup.com/blog/2017/09/infusion-an-inclusive-documentation-builder/">Infusion, an accessible documentation builder</a></li>
 		</ul>
 	</li>
 </ul>
