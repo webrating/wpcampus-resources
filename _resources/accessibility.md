@@ -486,6 +486,11 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
 		 	<li>Adds alt text using Microsoft cognitive services</li>
 		</ul>
 	</li>
+	<li><a href="https://wordpress.org/plugins/wa11y/">wA11y – The Web Accessibility Toolbox</a>
+		<ul>
+			<li>Provides a toolbox of resources to help you improve the accessibility of your WordPress website.</li>
+		</ul>
+	</li>
 </ul>
 
 <h2>Components</h2>
