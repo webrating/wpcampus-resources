@@ -1,0 +1,58 @@
+---
+ID: 30097
+post_title: Speaker Training
+author: Jen Riehle McFarland
+post_excerpt: ""
+layout: resource
+permalink: >
+  https://wpcampus.org/resources/speaker-training/
+published: true
+post_date: 2018-10-24 12:02:11
+---
+WPCampus aims to prioritizes and promote diversity in the general community, and in its events. One of the best ways to ensure a broad representation - and to encourage even more - is to have diverse speakers.
+
+That said, we understand that there are plenty of reasons why marginalized populations may not be the first to sign up to speak. A lack of opportunity, inexperience, struggles with imposter syndrome, and general nerves may all contribute to apathy or an avoidance of public speaking. This training aims to help alleviate these issues and encourages participants to imagine how they can contribute to the larger conversation.
+
+<h2>Content</h2>
+This training will be taught in two parts:
+<h3>Part I</h3>
+<ul>
+ 	<li>Finding a topic for your talk</li>
+ 	<li>Writing the pitch for your talk</li>
+</ul>
+Part I will discuss some of the obstacles to public speaking and help identify some ways to overcome them. It goes on to help participants identify areas of interest for speaking, and helps construct a pitch and bio to get you everything you need to apply to speak.
+<h3>Part II</h3>
+<ul>
+ 	<li>Creating your talk</li>
+ 	<li>Becoming a better speaker</li>
+ 	<li>Creating great slides</li>
+</ul>
+Part II takes the next step in constructing your talk and planning your presentation. We'll also offer some tips for how to be a better speaker and strategies for addressing common speaking concerns.
+
+<h2>Technical Details</h2>
+This training will be offered online only. Participants must have access to a microphone, at minimum; access to a camera is preferred. If using a microphone or camera presents a problem or barrier, e.g. you have a hard time expressing yourself vocally, please let us know during registration. We will work to ensure your participation.
+
+The event will be hosted in <a href="https://zoom.us/">Zoom</a>. If you've never used this tool we encourage you to prepare by <a href="https://zoom.us/signup">creating an account</a> and <a href="https://zoom.us/download#client_4meeting">downloading the application</a> prior to the event.
+
+Please let us know if you have any questions or concerns. If you need specific accommodations, e.g. live captioning, be sure to note this request in your registration.
+
+<h2>Schedule</h2>
+Part I of the training will be offered twice in November:
+<ul>
+ 	<li>Tuesday, Nov. 13 - 10 a.m. CST
+<ul>
+ 	<li><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M2Z2cWprN2JjN2I1aDhxaDB0aXIycjZ2b3IgM2Q2cGc3ZDF0cWZnZHJpcTQwbG1hMnY3ZDRAZw&amp;tmsrc=3d6pg7d1tqfgdriq40lma2v7d4%40group.calendar.google.com">Google Calendar invite</a></li>
+</ul>
+</li>
+ 	<li>Thursday, Nov. 15 - 1 p.m. CST
+<ul>
+ 	<li><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Nmt1NXMyaXJnbHI5bThrZWYxZTk2MXJvZWIgM2Q2cGc3ZDF0cWZnZHJpcTQwbG1hMnY3ZDRAZw&amp;tmsrc=3d6pg7d1tqfgdriq40lma2v7d4%40group.calendar.google.com">Google Calendar invite</a></li>
+</ul>
+</li>
+</ul>
+Part II will be offered twice in January 2019. Check back soon for dates and to sign up!
+
+If you are interested in arranging a custom training on this topic for you or a group, please <a href="https://wpcampus.org/contact/">contact us</a>!
+
+<h2>Sign-up for training</h2>
+[gravityform id="37" title="false" description="false"]
