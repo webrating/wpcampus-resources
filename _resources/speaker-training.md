@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-10-24 12:02:11
 ---
-WPCampus aims to prioritizes and promote diversity in the general community, and in its events. One of the best ways to ensure a broad representation - and to encourage even more - is to have diverse speakers.
+WPCampus aims to prioritize and promote diversity in the general community, and in its events. One of the best ways to ensure a broad representation - and to encourage even more - is to have diverse speakers.
 
 That said, we understand that there are plenty of reasons why marginalized populations may not be the first to sign up to speak. A lack of opportunity, inexperience, struggles with imposter syndrome, and general nerves may all contribute to apathy or an avoidance of public speaking. This training aims to help alleviate these issues and encourages participants to imagine how they can contribute to the larger conversation.
 
