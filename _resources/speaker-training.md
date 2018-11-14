@@ -51,12 +51,12 @@ Part I of the training will be offered twice in November. The training will last
 <h3>Part II</h3>
 Part II will be offered twice in January 2019. The training will last for two hours.
 <ul>
- 	<li>Monday, January 7 - 10 a.m. to 12 p.m. CST
+ 	<li>Monday, January 7, 2019 - 10 a.m. to 12 p.m. CST
 <ul>
  	<li><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGN0cTF2YWdvZG0zcWQ2NnFyODdwZzlqdXUgM2Q2cGc3ZDF0cWZnZHJpcTQwbG1hMnY3ZDRAZw&amp;tmsrc=3d6pg7d1tqfgdriq40lma2v7d4%40group.calendar.google.com">Google Calendar invite</a></li>
 </ul>
 </li>
- 	<li>Thursday, January 10 - 1 p.m. to 3 p.m. CST
+ 	<li>Thursday, January 10, 2019 - 1 p.m. to 3 p.m. CST
 <ul>
  	<li><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnE4NGw3ajV0M21uNGxjcWUyYjl1aGtjcjYgM2Q2cGc3ZDF0cWZnZHJpcTQwbG1hMnY3ZDRAZw&amp;tmsrc=3d6pg7d1tqfgdriq40lma2v7d4%40group.calendar.google.com">Google Calendar invite</a></li>
 </ul>
