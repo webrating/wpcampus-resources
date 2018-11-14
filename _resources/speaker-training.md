@@ -13,7 +13,7 @@ WPCampus aims to prioritize and promote diversity in the general community, and 
 
 That said, we understand that there are plenty of reasons why marginalized populations may not be the first to sign up to speak. A lack of opportunity, inexperience, struggles with imposter syndrome, and general nerves may all contribute to apathy or an avoidance of public speaking. This training aims to help alleviate these issues and encourages participants to imagine how they can contribute to the larger conversation.
 
-<div class="panel">The <a href="https://online.wpcampus.org/call-for-speakers/">WPCampus Online call for speakers</a> is open until Sunday, December 2, 2018. Our virtual conference is a great way to ease into public speaking. We'd love to hear what you have to say.</div>
+<div class="panel royal-blue"><a href="https://online.wpcampus.org/call-for-speakers/"><strong>The WPCampus Online call for speakers</strong></a> is open until Sunday, December 2, 2018. Our virtual conference is a great way to ease into public speaking. We'd love to hear what you have to say.</div>
 
 <h2>Content</h2>
 This training will be taught in two parts:
