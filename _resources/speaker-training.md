@@ -36,6 +36,10 @@ Part II takes the next step in constructing your talk and planning your presenta
 
 <a href="https://ncsu.zoom.us/recording/play/68fI2Ii5nB8GC68Z3_cvgMuaRUbOtf8W7xz6WlYTDGhWz6JDr6EPWxJCsi054NSn" target="_blank" rel="noopener"><strong>Watch the recording</strong></a>
 <a href="https://go.ncsu.edu/speaker-training2" target="_blank" rel="noopener"><strong>View the slides</strong></a>
+<h3>About this Training</h3>
+This training was originally created and shared by the WordPress Diversity Outreach Speaker Training team, lead by Jill Binder. You can view the <a href="https://make.wordpress.org/training/handbook/speaker-training/" target="_blank" rel="noopener">original content</a>, and use it for your own trainings; we encourage you to share this with your own communities!
+
+This content was edited for WPCampus, with additional content in part II, and to make adjustments for instruction in an online format.
 <h2>Technical Details</h2>
 This training is offered online only. Participants must have access to a microphone, at minimum; access to a camera is preferred. If using a microphone or camera presents a problem or barrier, e.g. you have a hard time expressing yourself vocally, please let us know during registration. We will work to ensure your participation.
 <h2>Schedule</h2>
