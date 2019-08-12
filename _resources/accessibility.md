@@ -115,7 +115,9 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="http://zomigi.com/blog/videos-of-screen-readers-using-aria-updated/">Videos of screen readers using ARIA</a></li>
 </ul>
 <h2>Resources</h2>
-<div class="panel">When one resource page isn't enough, here are some more options. <em>There will no doubt be crossover.</em>
+<div class="panel">
+
+When one resource page isn't enough, here are some more options. <em>There will no doubt be crossover.</em>
 <ul>
  	<li><a href="https://docs.google.com/spreadsheets/d/1Tx-but8PTLcf6ipevyujNOTZS5ms4XBkJoaW13Wg6IU/edit#gid=0">Accessibility Tools List from Accessibilty Summit 2016</a></li>
 </ul>
@@ -199,14 +201,20 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="https://developer.wordpress.org/themes/functionality/accessibility/">Accessibility - WordPress Theme Handbook</a></li>
 </ul>
 <h3>WPCampus Sessions</h3>
-<em>The following sessions include video recordings.</em>
+<em>The following sessions include video recordings. <a href="https://wpcampus.org/library/?subject=accessibility">View all accessibility sessions in our learning library</a>
+</em>
 <ul>
- 	<li><a href="https://2017.wpcampus.org/schedule/lightning-talks/accessibility-case-study-wcag-screen-reader-solutions-accordions-tabs/">Accessibility case study: WCAG and screen reader solutions for accordions and tabs</a></li>
- 	<li><a href="https://online.wpcampus.org/schedule/empathy-and-accessibility-for-the-web/">Empathy and Accessibility for the Web</a></li>
- 	<li><a href="https://2016.wpcampus.org/schedule/techniques-tools-resources-accessibility/">Techniques, Tools and Resources for Making WordPress Website WCAG 2.0 Compliant</a></li>
- 	<li><a href="https://2017.wpcampus.org/schedule/tools-approaches-managing-content-accessibility-web-identity-scale/">Tools and approaches for managing content, accessibility and web identity at scale</a></li>
- 	<li><a href="https://2016.wpcampus.org/schedule/wordpress-accessibility/">WordPress Accessibility: Where We Are and Where We’re Going</a></li>
- 	<li><a href="https://2017.wpcampus.org/schedule/a11y-workshop/">WORKSHOP: WordPress and A11y</a></li>
+ 	<li><a href="https://2018.wpcampus.org/schedule/working-with-an-accessibility-mindset/">Access granted: Working with an accessibility mindset</a> (July 2018)</li>
+ 	<li><a href="https://2018.wpcampus.org/schedule/accessibility-and-life-beyond-the-alt-tag/">Accessibility and life beyond the ALT tag</a> (July 2018)</li>
+ 	<li><a href="https://2017.wpcampus.org/schedule/lightning-talks/accessibility-case-study-wcag-screen-reader-solutions-accordions-tabs/">Accessibility case study: WCAG and screen reader solutions for accordions and tabs</a> (July 2017)</li>
+ 	<li><a href="https://2018.wpcampus.org/schedule/create-accessible-navigation-with-wordpress/">Create accessible navigation from scratch with WordPress</a> (July 2018)</li>
+ 	<li><a href="https://online.wpcampus.org/schedule/empathy-and-accessibility-for-the-web/">Empathy and Accessibility for the Web</a> (January 2017)</li>
+ 	<li><a href="https://online.wpcampus.org/schedule/incorporating-the-axe-accessibility-testing-engine-plugin-in-wordpress/">Incorporating the aXe Accessibility Testing Engine Plugin in WordPress</a> (January 2018)</li>
+ 	<li><a href="https://2016.wpcampus.org/schedule/techniques-tools-resources-accessibility/">Techniques, Tools and Resources for Making WordPress Website WCAG 2.0 Compliant</a> (July 2016)</li>
+ 	<li><a href="https://2017.wpcampus.org/schedule/tools-approaches-managing-content-accessibility-web-identity-scale/">Tools and approaches for managing content, accessibility and web identity at scale</a> (July 2017)</li>
+ 	<li><a href="https://2016.wpcampus.org/schedule/wordpress-accessibility/">WordPress Accessibility: Where We Are and Where We’re Going</a> (July 2016)</li>
+ 	<li><a href="https://2017.wpcampus.org/schedule/a11y-workshop/">WORKSHOP: WordPress and A11y</a> (July 2017)</li>
+ 	<li><a href="https://online.wpcampus.org/schedule/implementing-accessibility-for-difficult-content/">[Picture of woman hunched over keyboard, typing furiously]: Case studies in implementing accessibility for difficult content</a> (January 2018)</li>
 </ul>
 <h2>What Schools Are Using</h2>
 <ul>
