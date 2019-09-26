@@ -336,6 +336,11 @@ When one resource page isn't enough, here are some more options. <em>There will 
 </li>
 </ul>
 </li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation">Firefox Accessibility Inspector Simulator</a>
+    <ul>
+      <li>The simulator in the Accessibility Inspector in Firefox Developer Tools lets you see what a web page would look like to users with various forms of color vision deficiency (better known as "color blindness"), as well as contrast sensitivity loss.</li>
+    </ul>
+  </li>
 </ul>
 <h3>Scanning/Audits</h3>
 <ul>
@@ -415,6 +420,11 @@ When one resource page isn't enough, here are some more options. <em>There will 
  	<li>They also have a premium API.</li>
 </ul>
 </li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector">Firefox Accessiblity Inspector</a>
+    <ul>
+      <li>The Accessibility Inspector provides a means to access important information exposed to assistive technologies on the current page via the accessibility tree, allowing you to check what's missing or otherwise needs attention.</li>
+    </ul>
+  </li>
 </ul>
 <h3>Screen Readers</h3>
 <ul>
