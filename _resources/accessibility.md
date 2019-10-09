@@ -153,6 +153,10 @@ When one resource page isn't enough, here are some more options. <em>There will 
  	<li><a href="https://abookapart.com/products/accessibility-for-everyone">Accessibility for Everyone, by Laura Kalbag</a></li>
  	<li><a href="https://abookapart.com/products/design-for-real-life">Design for Real Life, by Eric Meyer &amp; Sara Wachter-Boettcher</a></li>
 </ul>
+<h3>Certifications</h3>
+<ul>
+  <li><a href="https://www.accessibilityassociation.org/certification">IAAP (International Association of Accessibility Professionals) Certification</a></li>
+</ul>
 <h3>Checklists</h3>
 <ul>
  	<li><a href="https://accessibility.18f.gov/checklist/">18F Accessibility Checklist</a></li>
