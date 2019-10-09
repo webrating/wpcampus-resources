@@ -114,6 +114,10 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="http://a11yproject.com/posts/getting-started-aria">A11y Project: Getting Started With ARIA</a></li>
  	<li><a href="http://zomigi.com/blog/videos-of-screen-readers-using-aria-updated/">Videos of screen readers using ARIA</a></li>
 </ul>
+
+<h2>#a11yCat shirts</h2>
+<a href="https://www.redbubble.com/people/a11ytalks/works/39136088-accessibility-a11y-cats">Buy an #a11yCat shirt</a> and support an accessibility charity!
+
 <h2>Resources</h2>
 <div class="panel">
 
