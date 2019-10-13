@@ -358,6 +358,12 @@ When one resource page isn't enough, here are some more options. <em>There will 
  	<li>Adds a tab to your developer tools to run a scan/audit of your current page.</li>
 </ul>
 </li>
+  <li><a href="https://accessibilityinsights.io/">Accessibility Insights</a>
+    <ul>
+      <li>Has an extension for Google Chrome and Microsoft Edge</li>
+      <li>Has Windows desktop application</li>
+    </ul>
+  </li>
  	<li><a href="https://addyosmani.com/a11y/">A11y Command-line Tools</a>
 <ul>
  	<li>Web accessibility audits powered by the Chrome Accessibility Developer Tools.</li>
