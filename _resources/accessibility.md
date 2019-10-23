@@ -159,6 +159,7 @@ When one resource page isn't enough, here are some more options. <em>There will 
 </ul>
 <h3>Checklists</h3>
 <ul>
+  <li><a href="https://www.w3.org/WAI/tutorials/images/decision-tree/">Image alt text decision tree</a></li>
  	<li><a href="https://accessibility.18f.gov/checklist/">18F Accessibility Checklist</a></li>
  	<li><a href="http://a11yproject.com/checklist.html">The A11Y Project Checklist</a></li>
  	<li><a href="https://webaim.org/standards/wcag/checklist">WebAIM WCAG 2.0 Checklist</a></li>
