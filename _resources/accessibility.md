@@ -138,6 +138,7 @@ When one resource page isn't enough, here are some more options. <em>There will 
  	<li><a href="https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412">Writing HTML with Accessibility in Mind</a></li>
  	<li><a href="https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9">Writing JavaScript with Accessibility in Mind</a></li>
  	<li><a href="https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/">Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility</a></li>
+   	<li><a href="https://www.websitehostingrating.com/web-accessibility-resources-tools/">80 web accessibility resources aimed at supporting accessible web design, development, and testing</a></li>
  	<li><a href="https://www.w3.org/WAI/gettingstarted/tips/index.html">Tips for Getting Started with Web Accessibility</a>
 <ul>
  	<li><a href="https://www.w3.org/WAI/gettingstarted/tips/designing.html">Design</a></li>
