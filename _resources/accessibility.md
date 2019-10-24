@@ -114,10 +114,8 @@ ARIA is supported by most up-to-date browsers and screen readers. It is also sup
  	<li><a href="http://a11yproject.com/posts/getting-started-aria">A11y Project: Getting Started With ARIA</a></li>
  	<li><a href="http://zomigi.com/blog/videos-of-screen-readers-using-aria-updated/">Videos of screen readers using ARIA</a></li>
 </ul>
-
 <h2>#a11yCat shirts</h2>
 <a href="https://www.redbubble.com/people/a11ytalks/works/39136088-accessibility-a11y-cats">Buy an #a11yCat shirt</a> and support an accessibility charity!
-
 <h2>Resources</h2>
 <div class="panel">
 
@@ -155,11 +153,11 @@ When one resource page isn't enough, here are some more options. <em>There will 
 </ul>
 <h3>Certifications</h3>
 <ul>
-  <li><a href="https://www.accessibilityassociation.org/certification">IAAP (International Association of Accessibility Professionals) Certification</a></li>
+ 	<li><a href="https://www.accessibilityassociation.org/certification">IAAP (International Association of Accessibility Professionals) Certification</a></li>
 </ul>
 <h3>Checklists</h3>
 <ul>
-  <li><a href="https://www.w3.org/WAI/tutorials/images/decision-tree/">Image alt text decision tree</a></li>
+ 	<li><a href="https://www.w3.org/WAI/tutorials/images/decision-tree/">Image alt text decision tree</a></li>
  	<li><a href="https://accessibility.18f.gov/checklist/">18F Accessibility Checklist</a></li>
  	<li><a href="http://a11yproject.com/checklist.html">The A11Y Project Checklist</a></li>
  	<li><a href="https://webaim.org/standards/wcag/checklist">WebAIM WCAG 2.0 Checklist</a></li>
@@ -345,11 +343,11 @@ When one resource page isn't enough, here are some more options. <em>There will 
 </li>
 </ul>
 </li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation">Firefox Accessibility Inspector Simulator</a>
-    <ul>
-      <li>The simulator in the Accessibility Inspector in Firefox Developer Tools lets you see what a web page would look like to users with various forms of color vision deficiency (better known as "color blindness"), as well as contrast sensitivity loss.</li>
-    </ul>
-  </li>
+ 	<li><a href="https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation">Firefox Accessibility Inspector Simulator</a>
+<ul>
+ 	<li>The simulator in the Accessibility Inspector in Firefox Developer Tools lets you see what a web page would look like to users with various forms of color vision deficiency (better known as "color blindness"), as well as contrast sensitivity loss.</li>
+</ul>
+</li>
 </ul>
 <h3>Scanning/Audits</h3>
 <ul>
@@ -359,12 +357,12 @@ When one resource page isn't enough, here are some more options. <em>There will 
  	<li>Adds a tab to your developer tools to run a scan/audit of your current page.</li>
 </ul>
 </li>
-  <li><a href="https://accessibilityinsights.io/">Accessibility Insights</a>
-    <ul>
-      <li>Has an extension for Google Chrome and Microsoft Edge</li>
-      <li>Has Windows desktop application</li>
-    </ul>
-  </li>
+ 	<li><a href="https://accessibilityinsights.io/">Accessibility Insights</a>
+<ul>
+ 	<li>Has an extension for Google Chrome and Microsoft Edge</li>
+ 	<li>Has Windows desktop application</li>
+</ul>
+</li>
  	<li><a href="https://addyosmani.com/a11y/">A11y Command-line Tools</a>
 <ul>
  	<li>Web accessibility audits powered by the Chrome Accessibility Developer Tools.</li>
@@ -435,11 +433,11 @@ When one resource page isn't enough, here are some more options. <em>There will 
  	<li>They also have a premium API.</li>
 </ul>
 </li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector">Firefox Accessiblity Inspector</a>
-    <ul>
-      <li>The Accessibility Inspector provides a means to access important information exposed to assistive technologies on the current page via the accessibility tree, allowing you to check what's missing or otherwise needs attention.</li>
-    </ul>
-  </li>
+ 	<li><a href="https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector">Firefox Accessiblity Inspector</a>
+<ul>
+ 	<li>The Accessibility Inspector provides a means to access important information exposed to assistive technologies on the current page via the accessibility tree, allowing you to check what's missing or otherwise needs attention.</li>
+</ul>
+</li>
 </ul>
 <h3>Screen Readers</h3>
 <ul>
